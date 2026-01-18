@@ -2,7 +2,7 @@
 
 An interactive Online Quiz System developed using Java Swing that allows users to attempt multiple-choice questions (MCQs), navigate between them, and view their final score in a visually appealing desktop application.
 
-This project demonstrates core Java concepts, Swing UI design, and object-oriented programming principles.
+This project demonstrates core  and advance Java concepts, Swing UI design, and object-oriented programming principles.
 
 ✨ Features
 
